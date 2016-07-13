@@ -12,5 +12,9 @@
  *
  *= require_tree .
  *= require_self
- *= require font-awesome
+ *= require_base
+ *= require_fonts
+ *= require_main
+ *= require_vendor
+ *= require_welcome
  */
